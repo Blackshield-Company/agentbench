@@ -2716,7 +2716,6 @@ runner:
 
 MIT — see [LICENSE](LICENSE)
 
-Made by synth with synthshark
 ```
 
 **Step 2: Create LICENSE**
@@ -2836,4 +2835,3 @@ agentbench run --config benches/swe-bench-lite.yml --harness generic
 
 *Plan written: 2026-06-01*
 *Target: v0.1.0 MVP in ~3 weeks (22 days of focused work)*
-*Made by synth with synthshark* 🎹🦈
