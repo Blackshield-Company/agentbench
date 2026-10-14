@@ -54,6 +54,7 @@ pub struct HarnessAdapterConfig {
 }
 
 /// Core trait for all harness adapters
+#[allow(clippy::double_must_use)]
 #[async_trait]
 pub trait HarnessAdapter: Send + Sync {
     fn name(&self) -> &str;

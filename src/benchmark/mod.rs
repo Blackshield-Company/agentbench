@@ -49,6 +49,7 @@ pub struct BenchmarkRunConfig {
 }
 
 /// Core trait for all benchmark suites
+#[allow(clippy::double_must_use)]
 #[async_trait]
 pub trait BenchmarkSuite: Send + Sync {
     fn name(&self) -> &str;
