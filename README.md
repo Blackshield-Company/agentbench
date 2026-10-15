@@ -1,3 +1,5 @@
+![agentbench](.github/preview.png)
+
 # AgentBench
 
 Open-source, self-hostable benchmark runner for AI coding agents.
