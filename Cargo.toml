@@ -4,7 +4,7 @@ version = "1.0.0"
 edition = "2021"
 authors = ["synth <synth>"]
 description = "Open-source benchmark runner for AI coding agents"
-license = "MIT"
+license = "Apache-2.0"
 repository = "https://github.com/synthalorian/agentbench"
 
 [dependencies]
