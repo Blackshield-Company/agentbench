@@ -18,7 +18,7 @@ Open-source, self-hostable benchmark runner for AI coding agents.
 
 ```bash
 # Clone
-git clone https://github.com/synthalorian/agentbench.git
+git clone https://github.com/Blackshield-Company/agentbench.git
 cd agentbench
 
 # Build

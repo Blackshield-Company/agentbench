@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["synth <synth>"]
 description = "Open-source benchmark runner for AI coding agents"
 license = "Apache-2.0"
-repository = "https://github.com/synthalorian/agentbench"
+repository = "https://github.com/Blackshield-Company/agentbench"
 
 [dependencies]
 tokio = { version = "1", features = ["full"] }

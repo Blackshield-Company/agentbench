@@ -85,7 +85,7 @@ edition = "2021"
 authors = ["synth <synth>"]
 description = "Open-source benchmark runner for AI coding agents"
 license = "MIT"
-repository = "https://github.com/synthalorian/agentbench"
+repository = "https://github.com/Blackshield-Company/agentbench"
 
 [dependencies]
 tokio = { version = "1", features = ["full"] }
@@ -2653,7 +2653,7 @@ Open-source, self-hostable benchmark runner for AI coding agents.
 
 ```bash
 # Clone
-git clone https://github.com/synthalorian/agentbench.git
+git clone https://github.com/Blackshield-Company/agentbench.git
 cd agentbench
 
 # Build
