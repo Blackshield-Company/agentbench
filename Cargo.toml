@@ -15,7 +15,7 @@ serde_json = "1"
 serde_yaml = "0.9"
 reqwest = { version = "0.12", features = ["json"] }
 rusqlite = { version = "0.32", features = ["bundled"] }
-ratatui = "0.29"
+ratatui = "0.30"
 crossterm = "0.28"
 axum = "0.8"
 tower-http = { version = "0.6", features = ["cors"] }
